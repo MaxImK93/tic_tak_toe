@@ -1,0 +1,6 @@
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/bin/Debug/tic_tac_toe.exe
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/bin/Debug/tic_tac_toe.pdb
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.csproj.AssemblyReference.cache
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.csproj.CoreCompileInputs.cache
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.exe
+/Users/maksimkasperovich/Projects/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.pdb

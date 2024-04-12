@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0164A908-2D49-4B91-A4EB-033DE8E0A89B}|Default">
+  <MonoDevelop.Ide.ItemProperties.tic__tac__toe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tic_tac_toe/Sings.cs">
+    <Files>
+      <File FileName="tic_tac_toe/Field.cs" Line="32" Column="1" />
+      <File FileName="tic_tac_toe/Sings.cs" Line="50" Column="45" />
+      <File FileName="tic_tac_toe/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tic_tac_toe" expanded="True">
+            <Node name="tic_tac_toe" expanded="True">
+              <Node name="Sings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
